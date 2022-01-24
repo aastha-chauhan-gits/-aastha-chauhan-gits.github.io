@@ -1,0 +1,41 @@
+body {
+  margin: 0 0 0 0;
+}
+
+nav {
+  background-color: #434343;
+  font-size: 17px;
+  font-family: 'Poppins', 'sans-serif';
+}
+
+.topnav a {
+color: #E6DDC4;
+}
+
+.intro {
+  /* font-style: "Light 300"; */
+  font-family: 'Poppins', 'sans-serif';
+  font-size: 25px;
+  background-color: #000000;
+  color: #678983;
+  padding: 200px 50px 200px 100px;
+}
+
+.intro h1{
+  background: linear-gradient(to right, #2B86C5, #784BA0, #FF3CAC, #FAACA8, #FAACA8, #FAACA8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.text-color {
+  font-size: 72px;
+  /* text-shadow: 3px 3px 3px ; */
+  background: linear-gradient(to left, #FFAAC3, #B5525C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  /* color: linear-gradient(to right, #181D31, #89B5AF); */
+}
