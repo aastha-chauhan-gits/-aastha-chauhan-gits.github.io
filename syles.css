@@ -1,6 +1,6 @@
-/* body {
+body {
   margin: 0 0 0 0;
-} */
+}
 
 nav {
   background-color: #0F0C08;
@@ -8,22 +8,34 @@ nav {
   font-family: 'Poppins', 'sans-serif';
 }
 
-.topnav a {
-color: #FAACA8;
+.navbar {
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
-#title{
+.navbar-brand{
+  font-weight: bold;
+}
+
+.topnav a {
+  color: #FAACA8;
+}
+
+#title {
   background-color: #000000;
 }
+
 .intro {
   /* font-style: "Light 300"; */
   font-family: 'Poppins', 'sans-serif';
-  font-size: 25px;
-
+  font-size: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
   /* padding: 200px 50px 200px 100px; */
 }
 
-.intro h1{
+.intro h1 {
+  font-size: 37px;
   background: linear-gradient(to right, #2B86C5, #784BA0, #FF3CAC, #FAACA8, #FAACA8, #FAACA8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -32,7 +44,7 @@ color: #FAACA8;
 }
 
 .text-color {
-  font-size: 72px;
+  font-size: 70px;
   /* text-shadow: 3px 3px 3px ; */
   background: linear-gradient(to left, #FFAAC3, #B5525C);
   -webkit-background-clip: text;
@@ -42,12 +54,7 @@ color: #FAACA8;
   /* color: linear-gradient(to right, #181D31, #89B5AF); */
 }
 
-.mytext{
+.mytext {
   height: 700px;
-  padding-top:13%;
-  padding-right: 5%;
-}
-
-.container-fluid {
-  padding-left: 15%;
+  padding-top: 160px;
 }
