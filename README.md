@@ -3,4 +3,4 @@
 ### PS : I am constanlty working on improving it!
 
 ### Here, have a look :
-### <a href="https://aastha-chauhan-gits.github.io/">LINK TO PORTFOLIO</a>
+### <a href="https://aastha-chauhan-gits.github.io/" target="_blank">LINK TO PORTFOLIO</a>
